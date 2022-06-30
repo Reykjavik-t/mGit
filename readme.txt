@@ -3,3 +3,4 @@ Git is free software under the GPL.
 add hello.
 create a new branch is quick.
 change in master and create a feature1 branch.
+这是master分支
